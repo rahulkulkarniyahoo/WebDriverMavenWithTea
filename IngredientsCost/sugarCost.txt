@@ -1,1 +1,1 @@
-sugar cost: 50p
+sugar cost: 100p

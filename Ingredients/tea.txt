@@ -1,1 +1,1 @@
-tea qty: 1 tea spoon
+tea qty: 2 tea spoon

@@ -1,1 +1,1 @@
-tea cost: 80p
+tea cost: 160p
